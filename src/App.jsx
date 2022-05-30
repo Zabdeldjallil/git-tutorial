@@ -3,7 +3,7 @@ import logo from './logo.svg'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(12)
+  const [count, setCount] = useState(10)
 
   return (
     <div className="App">
